@@ -8,7 +8,7 @@ const Styles = StyleSheet.create({
     flexWrap: 'wrap',
     flexDirection: 'column',
     alignItems: 'center',
-    backgroundColor: '#0A0915',
+    backgroundColor: '#0A0914',
     marginTop:SafeAreaView,
     width: width,
     height:height,
