@@ -24,7 +24,8 @@ const Styles = StyleSheet.create({
     width:'60%',
     height:50,
     resizeMode:'cover',
-    marginLeft:5,
+    marginLeft:10,
+    marginTop:7,
   },
   listas: {
     width: width-20,

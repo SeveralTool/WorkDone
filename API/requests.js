@@ -1,4 +1,5 @@
 import { useState, useEffect } from "react";
+///////////////////////////////////////////////////////////////////
 
 //TRAER MIS TAREAS Y ESTATUS
 export const useUserTasks = () => {
@@ -14,6 +15,7 @@ export const useUserTasks = () => {
     return [UserTasks, setUserTasks];
   };
 
+///////////////////////////////////////////////////////////////////
 
 //HACER DELETE DE TAREAS
 export const useDelTasks = (user_id, task_id) => {
@@ -38,14 +40,17 @@ export const useDelTasks = (user_id, task_id) => {
 
   return [delTasks, setDelTasks];
 };
+///////////////////////////////////////////////////////////////////
+
 
 //CAMBIAR STATUS DE TAREAS
-export const useChangeStatus = (user_id, task_id, status) => {
+export const useChangeStatus = (user_id, task_id) => {
   const [changeStatus, setChangeStatus] = useState([]);
+  console.log("change status backend", user_id, task_id)
 
   useEffect(() => {
     if (user_id !== undefined && task_id !== undefined) {
-      fetch(`http://127.0.0.1:5000/changeStatus/${user_id}/${task_id}`,{method: 'UPDATE' })
+      fetch(`http://127.0.0.1:5000/changeStatus/${user_id}/${task_id}`)
         .then((response) => {
           if (response.ok) {
             setChangeStatus("Status update successfully");
