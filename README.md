@@ -1,12 +1,12 @@
-# Título del Proyecto
+# Title of the project
 WorkDone
-## Breve descripción del proyecto.
+## Brief description of the project.
 
-Aplicacion desarrollada en React Native y Python, Cuenta con Login funcional y API con base de datos relacional.
-Admite creacion de tareas, de usuarios
-Cada tarea se puede eliminar, editar o cambiar su estado.
+Brief description of the project.
+Application developed in React Native and Python, It has a functional Login and API with a relational database. 
+Supports creation of tasks, users Each task can be deleted, edited or change its status.
 
-## Imagenes
+## Images
 <img src="https://github.com/SeveralTool/WorkDone/assets/40505451/0a752ca5-4281-458e-825a-18aa8c9b9c19" alt="Diseño sin título (3)" width="300">
 <img src="https://github.com/SeveralTool/WorkDone/assets/40505451/5bbc627e-fe0b-4695-8602-09b6e4aad0ae" alt="Diseño sin título (1)" width="300">
 <img src="https://github.com/SeveralTool/WorkDone/assets/40505451/d0566e37-8e6c-4f0d-b476-e5c64692b4b3" alt="Diseño sin título (3)" width="300">
@@ -16,21 +16,21 @@ Cada tarea se puede eliminar, editar o cambiar su estado.
 
 
 
-## Tabla de Contenidos
+## Table of Contents
 
-- [Instalación](#instalación)
-- [Uso](#uso)
-- [Contribución](#contribución)
-- [Créditos](#créditos)
-- [Licencia](#licencia)
-- [Contacto](#contacto)
+- [Installation](#installation)
+- [Use](#use)
+- [Contribution](#contribution)
+- [Credits](#credits)
+- [License](#license)
+- [Contact](#contact)
 
-## Instalación
+## Facility
 
-Apk disponible en el repositorio para su instalacion
+Apk available in the repository for installation
 
-## Uso
-Ejemplo de fuincion Login:
+## Use
+Example function to create account:
 ```async function createAccount() {
     if (name.length > 0 && email.length > 0 && password.length > 0) {
       let data = "";
@@ -79,19 +79,19 @@ Ejemplo de fuincion Login:
   }
 ```
 
-## Contribución
+## Contribution
 
-Indica si aceptas contribuciones y cómo los colaboradores pueden enviar sus mejoras. Establece pautas claras para las solicitudes de extracción y el estilo de código.
+Indicate if you accept contributions and how collaborators can submit their improvements. Set clear guidelines for pull requests and code style.
 
-## Créditos
+## Credits
 
-Creacion y desarollo por SeveralTool
+Creation and development by SeveralTool
 
-## Licencia
+## License
 
-Libre
+Free
 
-## Contacto
+## Contact
 
 severaltool.vercel.app
 
