@@ -5,8 +5,12 @@ WorkDone
 Aplicacion desarrollada en React Native y Python, Cuenta con Login funcional y API con base de datos relacional.
 Admite creacion de tareas, de usuarios
 Cada tarea se puede eliminar, editar o cambiar su estado.
-<img src="[ruta_de_la_imagen.png](https://github.com/SeveralTool/WorkDone/assets/40505451/0a752ca5-4281-458e-825a-18aa8c9b9c19)"  style="width: 25%;">
-
+<img src="https://github.com/SeveralTool/WorkDone/assets/40505451/0a752ca5-4281-458e-825a-18aa8c9b9c19" alt="Diseño sin título (3)" width="300">
+<img src="https://github.com/SeveralTool/WorkDone/assets/40505451/5bbc627e-fe0b-4695-8602-09b6e4aad0ae" alt="Diseño sin título (1)" width="300">
+<img src="https://github.com/SeveralTool/WorkDone/assets/40505451/d0566e37-8e6c-4f0d-b476-e5c64692b4b3" alt="Diseño sin título (3)" width="300">
+<img src="https://github.com/SeveralTool/WorkDone/assets/40505451/fab815d3-4259-4927-a808-4c353b99bace" alt="Diseño sin título (4)" width="300">
+<img src="https://github.com/SeveralTool/WorkDone/assets/40505451/ac399d4c-cd7b-4912-b423-2ccf7a451906" alt="Diseño sin título" width="300">
+<img src="https://github.com/SeveralTool/WorkDone/assets/40505451/f9fa9e39-8411-4080-90da-f3c158ce372c" alt="Diseño sin título (2)" width="300">
 
 
 
@@ -70,7 +74,8 @@ Ejemplo de fuincion Login:
         setWarning("");
       }, 5000);
     }
-  }```
+  }
+```
 
 ## Contribución
 
