@@ -14,7 +14,7 @@ const Stack = createStackNavigator();
 export const eventEmitter = new EventEmitter();
 
 const App = () => {
-  const [isLoggedIn, setLoggedIn] = useState(true);
+  const [isLoggedIn, setLoggedIn] = useState(false);
 
   // const DATAUSER =
   //ESCUCHA PARA LOGIN
