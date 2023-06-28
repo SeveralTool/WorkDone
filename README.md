@@ -7,7 +7,7 @@ Application developed in React Native and Python, It has a functional Login and 
 Supports creation of tasks, users Each task can be deleted, edited or change its status.
 
 ## Images
-<img src="https://github.com/SeveralTool/WorkDone/assets/40505451/350fcc80-df95-49ce-a9a9-edabd80f7d98" alt="Diseño sin título (3)" width="300">
+<img src="https://github.com/SeveralTool/WorkDone/assets/40505451/94d937f4-9cff-483b-a458-0614d3b7da1e" alt="Diseño sin título (3)" width="300">
 <img src="https://github.com/SeveralTool/WorkDone/assets/40505451/5bbc627e-fe0b-4695-8602-09b6e4aad0ae" alt="Diseño sin título (1)" width="300">
 <img src="https://github.com/SeveralTool/WorkDone/assets/40505451/d0566e37-8e6c-4f0d-b476-e5c64692b4b3" alt="Diseño sin título (3)" width="300">
 <img src="https://github.com/SeveralTool/WorkDone/assets/40505451/fab815d3-4259-4927-a808-4c353b99bace" alt="Diseño sin título (4)" width="300">
