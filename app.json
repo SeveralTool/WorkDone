@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "task-app",
+    "name": "WorkDone",
     "slug": "task-app",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -19,12 +19,18 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      }
+        "foregroundImage": "./assets/WorkDoneIcon.png",
+        "backgroundColor": "#000"
+      },
+      "package": "com.severaltool.taskapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "af95a43c-eed0-451e-a91a-c26524d7de02"
+      }
     }
   }
 }
