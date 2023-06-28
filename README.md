@@ -1,13 +1,13 @@
 # Title of the project
 WorkDone
-## Brief description of the project.
 
+## Brief description of the project.
 Brief description of the project.
 Application developed in React Native and Python, It has a functional Login and API with a relational database. 
 Supports creation of tasks, users Each task can be deleted, edited or change its status.
 
 ## Images
-<img src="https://github.com/SeveralTool/WorkDone/assets/40505451/0a752ca5-4281-458e-825a-18aa8c9b9c19" alt="Diseño sin título (3)" width="300">
+<img src="https://github.com/SeveralTool/WorkDone/assets/40505451/350fcc80-df95-49ce-a9a9-edabd80f7d98" alt="Diseño sin título (3)" width="300">
 <img src="https://github.com/SeveralTool/WorkDone/assets/40505451/5bbc627e-fe0b-4695-8602-09b6e4aad0ae" alt="Diseño sin título (1)" width="300">
 <img src="https://github.com/SeveralTool/WorkDone/assets/40505451/d0566e37-8e6c-4f0d-b476-e5c64692b4b3" alt="Diseño sin título (3)" width="300">
 <img src="https://github.com/SeveralTool/WorkDone/assets/40505451/fab815d3-4259-4927-a808-4c353b99bace" alt="Diseño sin título (4)" width="300">
@@ -17,7 +17,6 @@ Supports creation of tasks, users Each task can be deleted, edited or change its
 
 
 ## Table of Contents
-
 - [Installation](#installation)
 - [Use](#use)
 - [Contribution](#contribution)
@@ -26,7 +25,6 @@ Supports creation of tasks, users Each task can be deleted, edited or change its
 - [Contact](#contact)
 
 ## Facility
-
 Apk available in the repository for installation
 
 ## Use
@@ -80,19 +78,15 @@ Example function to create account:
 ```
 
 ## Contribution
-
 Indicate if you accept contributions and how collaborators can submit their improvements. Set clear guidelines for pull requests and code style.
 
 ## Credits
-
 Creation and development by SeveralTool
 
 ## License
-
 Free
 
 ## Contact
-
 severaltool.vercel.app
 
 
