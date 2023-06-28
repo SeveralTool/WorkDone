@@ -29,7 +29,8 @@ Apk available in the repository for installation
 
 ## Use
 Example function to create account:
-```async function createAccount() {
+```
+async function createAccount() {
     if (name.length > 0 && email.length > 0 && password.length > 0) {
       let data = "";
       try {
