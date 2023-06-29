@@ -1,5 +1,4 @@
-# Title of the project
-WorkDone
+# WorkDone
 
 ## Brief description of the project.
 Brief description of the project.
