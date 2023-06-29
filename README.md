@@ -1,7 +1,6 @@
 # WorkDone
 
 ## Brief description of the project.
-Brief description of the project.
 Application developed in React Native and Python, It has a functional Login and API with a relational database. 
 Supports creation of tasks, users Each task can be deleted, edited or change its status.
 
