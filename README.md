@@ -1,7 +1,7 @@
 # WorkDone
 
 ## Brief description of the project.
-Application developed in React Native and Python, It has a functional Login and API with a relational database. 
+Application developed in React Native and Python with Flask, It has a functional Login and API with a relational database. 
 Supports creation of tasks, users Each task can be deleted, edited or change its status.
 
 ## Images
@@ -23,7 +23,7 @@ Supports creation of tasks, users Each task can be deleted, edited or change its
 - [Contact](#contact)
 
 ## Facility
-Apk available in the repository for installation
+Apk available in the repository for installation || (deprecated)
 
 ## Use
 Example function to create account:
@@ -75,9 +75,6 @@ async function createAccount() {
     }
   }
 ```
-
-## Contribution
-Indicate if you accept contributions and how collaborators can submit their improvements. Set clear guidelines for pull requests and code style.
 
 ## Credits
 Creation and development by SeveralTool
